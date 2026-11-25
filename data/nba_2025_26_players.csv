@@ -1,0 +1,181 @@
+player_name,team,position,ppg,rpg,apg,spg,bpg
+CJ McCollum,Atlanta Hawks,PG,18.7,3.3,3.9,0.8,0.5
+Nickeil Alexander-Walker,Atlanta Hawks,SG,20.8,3.4,3.7,1.3,0.5
+Zaccharie Risacher,Atlanta Hawks,SF,9.6,3.8,1.1,0.9,0.5
+Jalen Johnson,Atlanta Hawks,PF,22.5,10.3,7.9,1.2,0.4
+Onyeka Okongwu,Atlanta Hawks,C,15.2,7.6,3.1,1.1,1.1
+Dyson Daniels,Atlanta Hawks,SG,11.9,6.8,5.9,2,0.4
+Derrick White,Boston Celtics,PG,16.5,4.4,5.4,1.1,1.3
+Jaylen Brown,Boston Celtics,SG,28.7,6.9,5.1,1,0.4
+Baylor Scheierman,Boston Celtics,SF,5.5,3.5,1.5,0.5,0.1
+Sam Hauser,Boston Celtics,PF,9.2,3.8,1.5,0.5,0.3
+Nikola Vučević,Boston Celtics,C,15.1,8.4,3.3,0.6,0.6
+Payton Pritchard,Boston Celtics,PG,17,3.9,5.2,0.7,0.1
+Egor Dëmin,Brooklyn Nets,PG,10.3,3.2,3.3,0.8,0.3
+Terance Mann,Brooklyn Nets,SG,7.2,3.2,3,0.7,0.2
+Michael Porter Jr.,Brooklyn Nets,SF,24.2,7.1,3,1.1,0.3
+Noah Clowney,Brooklyn Nets,PF,12.3,4.1,1.6,0.8,0.7
+Nic Claxton,Brooklyn Nets,C,11.7,6.9,3.7,0.7,1.1
+Ziaire Williams,Brooklyn Nets,SF,10.2,2.4,1.1,1.4,0.4
+LaMelo Ball,Charlotte Hornets,PG,20.1,4.8,7.1,1.2,0.3
+Kon Knueppel,Charlotte Hornets,SG,18.5,5.3,3.4,0.7,0.2
+Brandon Miller,Charlotte Hornets,SF,20.2,4.9,3.3,1,0.7
+Miles Bridges,Charlotte Hornets,PF,17.1,5.8,3.2,0.6,0.4
+Moussa Diabaté,Charlotte Hornets,C,7.9,8.7,1.9,0.8,1
+Coby White,Charlotte Hornets,SG,17.4,3.4,4,0.5,0.1
+Josh Giddey,Chicago Bulls,PG,17,8.3,9.1,1,0.5
+Anfernee Simons,Chicago Bulls,SG,14.3,2.5,2.4,0.5,0.1
+Matas Buzelis,Chicago Bulls,SF,16.3,5.8,2.1,0.7,1.5
+Patrick Williams,Chicago Bulls,PF,7,3,1.5,0.7,0.4
+Jalen Smith,Chicago Bulls,C,10.2,6.7,1.2,0.5,0.8
+Tre Jones,Chicago Bulls,PG,14.1,3.1,5.4,1.2,0.2
+James Harden,Cleveland Cavaliers,PG,23.6,4.8,8,1.1,0.4
+Donovan Mitchell,Cleveland Cavaliers,SG,27.9,4.5,5.7,1.5,0.3
+Jaylon Tyson,Cleveland Cavaliers,SF,13.2,5.1,2.2,0.8,0.4
+Evan Mobley,Cleveland Cavaliers,PF,18.2,9,3.6,0.7,1.7
+Jarrett Allen,Cleveland Cavaliers,C,15.4,8.5,1.8,1,0.8
+Sam Merrill,Cleveland Cavaliers,SG,12.8,2.6,2.4,0.6,0.1
+Brandon Williams,Dallas Mavericks,PG,13,2.9,3.9,0.9,0.3
+Max Christie,Dallas Mavericks,SG,12.3,3.2,2,0.6,0.4
+Cooper Flagg,Dallas Mavericks,SF,21,6.7,4.5,1.2,0.9
+P.J. Washington,Dallas Mavericks,PF,14.2,7,1.8,1,1.1
+Daniel Gafford,Dallas Mavericks,C,9.5,6.9,1.1,0.8,1.3
+Naji Marshall,Dallas Mavericks,SF,15.2,4.7,3.3,1.1,0.1
+Jamal Murray,Denver Nuggets,PG,25.4,4.4,7.1,0.9,0.4
+Christian Braun,Denver Nuggets,SG,12,4.8,2.7,0.7,0.3
+Cameron Johnson,Denver Nuggets,SF,12.2,3.8,2.4,0.7,0.4
+Aaron Gordon,Denver Nuggets,PF,16.2,5.8,2.7,0.6,0.3
+Nikola Jokić,Denver Nuggets,C,27.7,12.9,10.7,1.4,0.8
+Peyton Watson,Denver Nuggets,SF,14.6,4.9,2.1,0.9,1.1
+Cade Cunningham,Detroit Pistons,PG,23.9,5.5,9.9,1.4,0.8
+Duncan Robinson,Detroit Pistons,SG,12.2,2.7,2.1,0.6,0.3
+Ausar Thompson,Detroit Pistons,SF,9.9,5.7,3.1,2,0.9
+Tobias Harris,Detroit Pistons,PF,13.3,5.1,2.5,0.9,0.4
+Jalen Duren,Detroit Pistons,C,19.5,10.5,2,0.8,0.8
+Isaiah Stewart,Detroit Pistons,C,10,5,1.1,0.3,1.6
+Stephen Curry,Golden State Warriors,PG,26.6,3.6,4.7,1.1,0.4
+Brandin Podziemski,Golden State Warriors,SG,13.8,5.1,3.7,1.1,0.2
+Jimmy Butler III,Golden State Warriors,SF,20,5.6,4.9,1.4,0.2
+Draymond Green,Golden State Warriors,PF,8.4,5.5,5.5,0.9,0.6
+Kristaps Porziņģis,Golden State Warriors,C,16.7,5.2,2.5,0.6,1.2
+Moses Moody,Golden State Warriors,SF,12.1,3.3,1.6,1,0.6
+Reed Sheppard,Houston Rockets,PG,13.5,2.9,3.4,1.5,0.7
+Amen Thompson,Houston Rockets,SG,18.3,7.8,5.3,1.5,0.6
+Kevin Durant,Houston Rockets,SF,26,5.5,4.8,0.8,0.9
+Jabari Smith Jr.,Houston Rockets,PF,15.8,6.9,1.9,0.7,0.9
+Alperen Sengun,Houston Rockets,C,20.4,8.9,6.2,1.2,1.1
+Tari Eason,Houston Rockets,SF,10.5,6.3,1.5,1.2,0.5
+Andrew Nembhard,Indiana Pacers,PG,16.9,2.8,7.7,0.9,0.1
+Ben Sheppard,Indiana Pacers,SG,7.1,3,1.8,0.6,0.1
+Aaron Nesmith,Indiana Pacers,SF,13.8,4.2,1.9,0.6,0.5
+Pascal Siakam,Indiana Pacers,PF,24,6.6,3.8,1.1,0.4
+Ivica Zubac,Indiana Pacers,C,14.1,10.6,2.2,0.4,0.8
+Jarace Walker,Indiana Pacers,PF,11.6,5.1,2.5,0.8,0.3
+Darius Garland,LA Clippers,PG,18.8,2.4,6.7,1,0.2
+Bennedict Mathurin,LA Clippers,SG,17.6,5.4,2.4,0.8,0.2
+Kawhi Leonard,LA Clippers,SF,27.9,6.4,3.6,1.9,0.4
+John Collins,LA Clippers,PF,13.6,5.3,1,0.9,0.7
+Brook Lopez,LA Clippers,C,8.5,3.6,1.3,0.6,1.2
+Kris Dunn,LA Clippers,SG,7.3,3.3,3.6,1.6,0.2
+Luka Dončić,Los Angeles Lakers,PG,33.5,7.7,8.3,1.6,0.5
+Austin Reaves,Los Angeles Lakers,SG,23.3,4.7,5.5,1.1,0.4
+LeBron James,Los Angeles Lakers,SF,20.9,6.1,7.2,1.2,0.6
+Rui Hachimura,Los Angeles Lakers,PF,11.5,3.3,0.8,0.6,0.3
+Deandre Ayton,Los Angeles Lakers,C,12.5,8,0.8,0.6,1
+Marcus Smart,Los Angeles Lakers,SG,9.3,2.8,3,1.4,0.4
+Ja Morant,Memphis Grizzlies,PG,19.5,3.3,8.1,1,0.3
+Cedric Coward,Memphis Grizzlies,SG,13.6,5.9,2.8,0.6,0.4
+Jaylen Wells,Memphis Grizzlies,SF,12.5,3.2,1.6,0.9,0.1
+Santi Aldama,Memphis Grizzlies,PF,14,6.7,2.9,0.9,0.7
+GG Jackson,Memphis Grizzlies,C,12.5,4.3,1.5,0.6,0.8
+Cam Spencer,Memphis Grizzlies,PG,11.1,2.5,5.6,0.7,0.2
+Davion Mitchell,Miami Heat,PG,9.3,2.7,6.5,1,0.2
+Tyler Herro,Miami Heat,SG,20.5,4.8,4.1,0.7,0.4
+Andrew Wiggins,Miami Heat,SF,15.4,4.8,2.7,1.1,1
+Jaime Jaquez Jr.,Miami Heat,PF,15.4,5,4.7,0.7,0.3
+Bam Adebayo,Miami Heat,C,20.1,10,3.2,1.2,0.7
+Norman Powell,Miami Heat,SG,21.7,3.5,2.5,1.1,0.2
+Kevin Porter Jr.,Milwaukee Bucks,PG,17.4,5.2,7.4,2.2,0.5
+AJ Green,Milwaukee Bucks,SG,10.4,2.7,1.9,0.5,0.1
+Kyle Kuzma,Milwaukee Bucks,SF,13,4.5,2.7,0.7,0.4
+Giannis Antetokounmpo,Milwaukee Bucks,PF,27.6,9.8,5.4,0.9,0.7
+Myles Turner,Milwaukee Bucks,C,11.9,5.3,1.5,0.7,1.6
+Ryan Rollins,Milwaukee Bucks,PG,17.3,4.6,5.6,1.5,0.4
+Donte DiVincenzo,Minnesota Timberwolves,PG,12.2,4.1,3.8,1.3,0.4
+Anthony Edwards,Minnesota Timberwolves,SG,28.8,5,3.7,1.4,0.8
+Jaden McDaniels,Minnesota Timberwolves,SF,14.8,4.2,2.7,1.1,1
+Julius Randle,Minnesota Timberwolves,PF,21.1,6.7,5,1.1,0.2
+Rudy Gobert,Minnesota Timberwolves,C,10.9,11.5,1.7,0.8,1.6
+Ayo Dosunmu,Minnesota Timberwolves,SG,14.8,3.4,3.6,0.8,0.3
+Jeremiah Fears,New Orleans Pelicans,PG,14.3,3.7,3.4,1.2,0.4
+Trey Murphy III,New Orleans Pelicans,SG,21.5,5.7,3.8,1.5,0.4
+Saddiq Bey,New Orleans Pelicans,SF,17.7,5.6,2.5,0.9,0.1
+Zion Williamson,New Orleans Pelicans,PF,21,5.7,3.2,1,0.5
+Yves Missi,New Orleans Pelicans,C,5.7,5.8,1.3,0.3,1.5
+Herbert Jones,New Orleans Pelicans,SF,8.9,3.4,2.8,1.6,0.5
+Jalen Brunson,New York Knicks,PG,26,3.3,6.8,0.8,0.1
+Josh Hart,New York Knicks,SG,12,7.4,4.8,1.1,0.3
+Mikal Bridges,New York Knicks,SF,14.4,3.8,3.7,1.3,0.8
+OG Anunoby,New York Knicks,PF,16.7,5.2,2.2,1.6,0.7
+Karl-Anthony Towns,New York Knicks,C,20.1,11.9,3,0.9,0.5
+Miles McBride,New York Knicks,PG,12,2.4,2.6,0.9,0.2
+Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,31.1,4.3,6.6,1.4,0.8
+Luguentz Dort,Oklahoma City Thunder,SG,8.3,3.6,1.2,0.9,0.4
+Jalen Williams,Oklahoma City Thunder,SF,17.1,4.6,5.5,1.2,0.3
+Chet Holmgren,Oklahoma City Thunder,PF,17.1,8.9,1.7,0.6,1.9
+Isaiah Hartenstein,Oklahoma City Thunder,C,9.2,9.4,3.5,1,0.8
+Cason Wallace,Oklahoma City Thunder,SG,8.6,3.1,2.6,1.9,0.4
+Anthony Black,Orlando Magic,PG,15,3.8,3.7,1.4,0.7
+Desmond Bane,Orlando Magic,SG,20.1,4.1,4.1,1,0.5
+Franz Wagner,Orlando Magic,SF,20.6,5.2,3.3,0.9,0.3
+Paolo Banchero,Orlando Magic,PF,22.2,8.4,5.2,0.7,0.6
+Wendell Carter Jr.,Orlando Magic,C,11.8,7.4,2,0.8,0.6
+Jalen Suggs,Orlando Magic,PG,13.8,3.9,5.5,1.8,0.7
+Tyrese Maxey,Philadelphia 76ers,PG,28.3,4.1,6.6,1.9,0.8
+VJ Edgecombe,Philadelphia 76ers,SG,16,5.6,4.2,1.4,0.5
+Kelly Oubre Jr.,Philadelphia 76ers,SF,14.1,5,1.6,1.4,0.5
+Paul George,Philadelphia 76ers,PF,17.3,5.3,3.6,1.7,0.4
+Joel Embiid,Philadelphia 76ers,C,26.9,7.7,3.9,0.6,1.2
+Quentin Grimes,Philadelphia 76ers,SG,13.4,3.6,3.3,0.9,0.4
+Collin Gillespie,Phoenix Suns,PG,12.7,4.1,4.6,1.2,0.2
+Devin Booker,Phoenix Suns,SG,26.1,3.9,6,0.8,0.3
+Dillon Brooks,Phoenix Suns,SF,20.2,3.6,1.8,1,0.2
+Royce O'Neale,Phoenix Suns,PF,9.8,4.8,2.7,1.1,0.4
+Mark Williams,Phoenix Suns,C,11.7,8,1,0.9,0.9
+Grayson Allen,Phoenix Suns,SG,16.5,3,3.8,1.4,0.3
+Jrue Holiday,Portland Trail Blazers,PG,16.3,4.6,6.1,1,0.1
+Shaedon Sharpe,Portland Trail Blazers,SG,20.8,4.3,2.6,1.4,0.1
+Deni Avdija,Portland Trail Blazers,SF,24.2,6.9,6.7,0.8,0.6
+Toumani Camara,Portland Trail Blazers,PF,13.4,5.1,2.5,1.1,0.4
+Donovan Clingan,Portland Trail Blazers,C,12.1,11.6,2.1,0.6,1.7
+Jerami Grant,Portland Trail Blazers,PF,18.6,3.5,2.1,0.7,0.6
+Russell Westbrook,Sacramento Kings,PG,15.2,5.4,6.7,1.3,0.2
+Zach LaVine,Sacramento Kings,SG,19.2,2.8,2.3,0.7,0.3
+DeMar DeRozan,Sacramento Kings,SF,18.4,2.9,4.1,1,0.3
+Keegan Murray,Sacramento Kings,PF,14,5.7,1.7,1,1.6
+Maxime Raynaud,Sacramento Kings,C,12.5,7.5,1.4,0.5,0.5
+Daeqwon Plowden,Sacramento Kings,SG,10.8,3,1.3,0.7,0.2
+De'Aaron Fox,San Antonio Spurs,PG,18.6,3.8,6.2,1.2,0.3
+Dylan Harper,San Antonio Spurs,SG,11.8,3.4,3.9,0.8,0.3
+Devin Vassell,San Antonio Spurs,SF,13.9,4,2.5,0.9,0.4
+Keldon Johnson,San Antonio Spurs,PF,13.2,5.4,1.4,0.6,0.1
+Victor Wembanyama,San Antonio Spurs,C,25,11.5,3.1,1,3.1
+Stephon Castle,San Antonio Spurs,PG,16.7,5.3,7.4,1.1,0.3
+Immanuel Quickley,Toronto Raptors,PG,16.4,4,5.9,1.3,0.1
+RJ Barrett,Toronto Raptors,SG,19.3,5.3,3.3,0.7,0.3
+Brandon Ingram,Toronto Raptors,SF,21.5,5.6,3.7,0.8,0.7
+Scottie Barnes,Toronto Raptors,PF,18.1,7.5,5.9,1.4,1.5
+Jakob Poeltl,Toronto Raptors,C,10.7,7,2,0.9,0.7
+Jamal Shead,Toronto Raptors,PG,6.6,1.7,5.4,0.9,0.2
+Keyonte George,Utah Jazz,PG,23.6,3.7,6.1,1.1,0.3
+Cody Williams,Utah Jazz,SG,8.8,3,2,0.8,0.4
+Ace Bailey,Utah Jazz,SF,13.8,4.2,1.8,0.8,0.7
+Lauri Markkanen,Utah Jazz,PF,26.7,6.9,2.1,1,0.5
+Jusuf Nurkić,Utah Jazz,C,10.9,10.4,4.8,1.3,0.5
+Jaren Jackson Jr.,Utah Jazz,PF,19.4,5.7,2,1.1,1.4
+Bub Carrington,Washington Wizards,PG,10.7,3.4,4.6,0.6,0.2
+Tre Johnson,Washington Wizards,SG,12.2,2.8,2,0.6,0.3
+Bilal Coulibaly,Washington Wizards,SF,11.7,4.3,2.6,1.3,1
+Anthony Davis,Washington Wizards,PF,20.4,11.1,2.8,1.1,1.7
+Alex Sarr,Washington Wizards,C,16.3,7.4,2.7,0.8,2
+Kyshawn George,Washington Wizards,PF,14.8,5.1,4.5,1,0.9
